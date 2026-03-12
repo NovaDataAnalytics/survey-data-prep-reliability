@@ -1,0 +1,38 @@
+# Contributing
+
+This repository is maintained by **Nova Data Analytics** as part of our Academic Research Support Series. We welcome engagement from researchers, educators, and practitioners.
+
+---
+
+## What We Welcome
+
+**Bug reports and errors** — if you find a broken cell, incorrect calculation, or methodological inconsistency, open a GitHub Issue and describe what you found, where it is, and what you expected.
+
+**Methodological suggestions** — if you think a step could be done better or an alternative approach is more appropriate, open an Issue. Good methodology is the point.
+
+**Typos and small fixes** — submit a Pull Request directly.
+
+---
+
+## How to Open a Pull Request
+
+1. Fork the repository
+2. Create a branch: `git checkout -b fix/your-description`
+3. Commit with a clear message
+4. Open a Pull Request against `main` and describe what you changed and why
+
+---
+
+## Using This Material in Teaching
+
+You are welcome to use this case study in a course, workshop, or seminar. Please credit Nova Data Analytics as the source and retain the disclaimer. We would love to know — drop us a message.
+
+---
+
+## Contact
+
+For research support, training, or collaboration enquiries:
+
+📧 info@novadataanalytics.co.za  
+🌐 [novadataanalytics.co.za](https://www.novadataanalytics.co.za)  
+💼 [LinkedIn](https://www.linkedin.com/company/novadataanalytics-coza)
