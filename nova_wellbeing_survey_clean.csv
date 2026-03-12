@@ -1,0 +1,321 @@
+respondent_id,gender,age_group,tenure_group,education_level,employment_type,department,PSS_1,PSS_2,PSS_3,PSS_4,PSS_5,PSS_6,BO_1,BO_2,BO_3,BO_4,BO_5,BO_6,ITL_1,ITL_2,ITL_3,ITL_4,PSS,BO,ITL
+R001,Male,30–39,6–10 years,Master's degree,Permanent,IT & Systems,3,3,4,2,3,2,4,5,4,4,5,4,1,2,1,1,2.8333333333333335,4.333333333333333,1.25
+R003,Female,40–49,2–5 years,Master's degree,Permanent,Administration,3,3,3,3,3,4,3,3,3,3,3,3,1,2,1,1,3.1666666666666665,3.0,1.25
+R004,Female,Under 30,Less than 2 years,Master's degree,Contract,Finance,3,3,3,3,2,2,4,4,4,3,5,5,3,3,3,3,2.6666666666666665,4.166666666666667,3.0
+R005,Male,Under 30,Less than 2 years,Doctoral degree,Permanent,Legal & Compliance,2,2,2,2,2,2,4,5,5,4,5,5,3,4,3,3,2.0,4.666666666666667,3.25
+R006,Male,40–49,More than 10 years,Bachelor's degree,Permanent,Service Delivery,4,3,3,4,2,3,3,2,2,3,2,3,1,1,1,1,3.1666666666666665,2.5,1.0
+R007,Male,Under 30,2–5 years,Master's degree,Contract,Legal & Compliance,3,3,3,2,3,3,4,4,5,4,3,5,3,2,2,2,2.8333333333333335,4.166666666666667,2.25
+R008,Female,40–49,More than 10 years,Bachelor's degree,Contract,Human Resources,2,2,2,3,2,2,5,4,5,4,5,4,2,2,3,2,2.1666666666666665,4.5,2.25
+R009,Female,50 and above,2–5 years,Honours,Permanent,Administration,4,5,5,5,5,5,2,2,2,2,2,2,1,1,1,1,4.833333333333333,2.0,1.0
+R010,Female,40–49,6–10 years,Honours,Contract,IT & Systems,3,3,3,2,3,3,2,3,3,3,3,3,1,1,2,1,2.8333333333333335,2.8333333333333335,1.25
+R011,Male,30–39,More than 10 years,Master's degree,Permanent,Human Resources,4,3,4,3,3,3,3,3,3,4,3,3,2,1,1,1,3.3333333333333335,3.1666666666666665,1.25
+R012,Female,40–49,6–10 years,Doctoral degree,Permanent,Service Delivery,4,4,4,4,4,4,2,2,2,2,2,2,1,1,1,1,4.0,2.0,1.0
+R013,Female,30–39,6–10 years,Master's degree,Permanent,Administration,4,4,3,3,3,4,3,3,4,2,2,3,1,2,1,1,3.5,2.8333333333333335,1.25
+R014,Male,30–39,2–5 years,Bachelor's degree,Permanent,Human Resources,2,2,1,2,2,1,4,5,4,4,4,4,2,2,2,3,1.6666666666666667,4.166666666666667,2.25
+R015,Male,50 and above,2–5 years,Bachelor's degree,Permanent,Administration,3,2,2,2,2,3,5,5,4,5,5,5,1,2,2,1,2.3333333333333335,4.833333333333333,1.5
+R016,Male,30–39,More than 10 years,Honours,Contract,Finance,3,3,3,3,3,4,4,4,3,5,3,4,1,1,1,1,3.1666666666666665,3.8333333333333335,1.0
+R017,Male,50 and above,More than 10 years,Bachelor's degree,Permanent,Service Delivery,2,4,3,3,3,3,3,3,4,3,4,3,1,2,1,2,3.0,3.3333333333333335,1.5
+R019,Male,30–39,Less than 2 years,Bachelor's degree,Permanent,Finance,5,5,4,5,4,5,2,1,2,2,1,1,1,1,2,1,4.666666666666667,1.5,1.25
+R020,Male,Under 30,6–10 years,Bachelor's degree,Contract,Human Resources,4,3,3,4,4,3,3,3,4,4,3,2,2,2,2,2,3.5,3.1666666666666665,2.0
+R021,Female,Under 30,More than 10 years,Bachelor's degree,Permanent,Human Resources,4,4,4,4,4,3,4,3,4,4,4,4,2,2,2,3,3.8333333333333335,3.8333333333333335,2.25
+R022,Male,Under 30,2–5 years,Bachelor's degree,Permanent,Service Delivery,3,3,3,3,3,3,3,2,3,3,3,3,1,2,1,1,3.0,2.8333333333333335,1.25
+R023,Male,Under 30,Less than 2 years,Diploma,Permanent,Legal & Compliance,2,3,2,3,3,2,3,3,3,4,4,3,2,1,1,2,2.5,3.3333333333333335,1.5
+R024,Male,40–49,6–10 years,Diploma,Permanent,Legal & Compliance,3,2,2,2,2,3,3,4,4,4,3,4,2,1,2,2,2.3333333333333335,3.6666666666666665,1.75
+R025,Female,Under 30,6–10 years,Doctoral degree,Casual,Service Delivery,2,2,2,2,3,2,4,3,4,3,4,4,2,1,1,1,2.1666666666666665,3.6666666666666665,1.25
+R026,Female,30–39,More than 10 years,Bachelor's degree,Casual,Finance,3,3,3,2,3,3,3,3,3,3,3,3,1,1,1,1,2.8333333333333335,3.0,1.0
+R027,Male,40–49,Less than 2 years,Bachelor's degree,Permanent,Service Delivery,3,3,3,2,3,3,3,5,3,4,3,3,1,2,1,1,2.8333333333333335,3.5,1.25
+R028,Female,Under 30,More than 10 years,Honours,Casual,Human Resources,5,4,5,3,3,3,3,2,2,2,2,2,1,1,1,1,3.8333333333333335,2.1666666666666665,1.0
+R029,Female,40–49,2–5 years,Bachelor's degree,Permanent,Finance,3,3,3,3,3,3,3,4,3,3,4,4,2,1,3,1,3.0,3.5,1.75
+R030,Male,30–39,2–5 years,Master's degree,Contract,Service Delivery,2,2,2,2,2,2,4,5,5,5,4,4,3,2,3,3,2.0,4.5,2.75
+R031,Female,Under 30,2–5 years,Master's degree,Permanent,Administration,3,3,3,3,3,3,3,3,4,3,2,3,1,1,1,1,3.0,3.0,1.0
+R033,Male,40–49,6–10 years,Bachelor's degree,Permanent,Human Resources,2,2,2,2,2,2,5,4,4,4,4,4,1,2,1,3,2.0,4.166666666666667,1.75
+R034,Female,50 and above,6–10 years,Master's degree,Permanent,IT & Systems,3,2,3,3,2,3,4,5,4,3,3,4,2,2,2,3,2.6666666666666665,3.8333333333333335,2.25
+R035,Female,40–49,2–5 years,Master's degree,Permanent,Service Delivery,3,4,3,4,3,4,3,3,3,3,2,2,1,1,1,1,3.5,2.6666666666666665,1.0
+R036,Female,40–49,More than 10 years,Honours,Permanent,Legal & Compliance,4,4,4,5,4,4,3,3,3,3,3,3,1,1,2,1,4.166666666666667,3.0,1.25
+R037,Male,30–39,2–5 years,Honours,Permanent,IT & Systems,3,3,3,3,2,2,3,2,3,3,3,3,2,1,2,1,2.6666666666666665,2.8333333333333335,1.5
+R038,Male,Under 30,More than 10 years,Bachelor's degree,Permanent,IT & Systems,1,3,3,2,3,2,4,4,4,4,4,5,1,1,1,2,2.3333333333333335,4.166666666666667,1.25
+R039,Female,40–49,2–5 years,Doctoral degree,Permanent,Administration,5,5,5,5,4,4,2,3,2,2,2,2,1,1,1,1,4.666666666666667,2.1666666666666665,1.0
+R040,Female,40–49,2–5 years,Bachelor's degree,Permanent,IT & Systems,3,3,3,3,3,3,3,3,3,4,4,4,1,1,1,1,3.0,3.5,1.0
+R041,Male,50 and above,6–10 years,Master's degree,Casual,Administration,2,2,3,2,2,2,3,4,3,4,3,4,1,1,1,1,2.1666666666666665,3.5,1.0
+R042,Female,30–39,2–5 years,Honours,Permanent,Service Delivery,3,3,4,4,4,5,3,3,3,3,3,2,1,1,2,1,3.8333333333333335,2.8333333333333335,1.25
+R043,Male,30–39,6–10 years,Honours,Permanent,IT & Systems,2,3,2,2,3,3,4,4,3,4,5,3,1,1,1,1,2.5,3.8333333333333335,1.0
+R044,Female,40–49,6–10 years,Honours,Permanent,Service Delivery,4,3,4,3,4,4,1,1,1,2,2,2,1,1,1,1,3.6666666666666665,1.5,1.0
+R046,Female,50 and above,More than 10 years,Bachelor's degree,Permanent,Administration,4,3,2,3,3,3,3,3,2,2,3,3,1,1,1,1,3.0,2.6666666666666665,1.0
+R047,Male,40–49,2–5 years,Bachelor's degree,Permanent,Service Delivery,3,4,3,3,3,4,4,3,4,4,4,3,1,1,1,1,3.3333333333333335,3.6666666666666665,1.0
+R048,Female,30–39,6–10 years,Bachelor's degree,Contract,Administration,4,5,4,3,4,4,2,2,2,2,2,3,1,1,1,1,4.0,2.1666666666666665,1.0
+R049,Female,40–49,More than 10 years,Master's degree,Casual,Administration,2,2,2,2,3,2,4,4,4,3,4,4,2,2,2,2,2.1666666666666665,3.8333333333333335,2.0
+R050,Male,40–49,6–10 years,Bachelor's degree,Permanent,Administration,2,2,2,1,2,2,5,4,5,5,4,4,2,3,3,3,1.8333333333333333,4.5,2.75
+R051,Female,Under 30,Less than 2 years,Diploma,Permanent,Legal & Compliance,4,5,4,5,4,4,3,2,2,2,2,2,1,2,1,1,4.333333333333333,2.1666666666666665,1.25
+R052,Female,50 and above,More than 10 years,Doctoral degree,Permanent,Service Delivery,2,3,2,2,2,2,4,4,4,4,4,3,2,2,2,2,2.1666666666666665,3.8333333333333335,2.0
+R055,Female,30–39,Less than 2 years,Doctoral degree,Permanent,Finance,3,4,4,4,3,4,2,2,2,3,1,2,1,1,1,1,3.6666666666666665,2.0,1.0
+R056,Female,50 and above,More than 10 years,Bachelor's degree,Contract,Service Delivery,3,4,4,3,4,3,2,1,2,2,1,1,1,1,1,1,3.5,1.5,1.0
+R057,Male,30–39,6–10 years,Bachelor's degree,Permanent,Service Delivery,4,5,4,5,5,4,2,2,2,2,2,2,1,1,2,1,4.5,2.0,1.25
+R058,Male,Under 30,6–10 years,Master's degree,Permanent,Administration,4,5,4,4,5,4,1,1,1,1,1,1,1,1,1,1,4.333333333333333,1.0,1.0
+R059,Male,50 and above,More than 10 years,Honours,Permanent,Administration,3,2,3,3,2,3,3,3,4,3,3,3,1,1,1,1,2.6666666666666665,3.1666666666666665,1.0
+R060,Male,Under 30,More than 10 years,Bachelor's degree,Permanent,Administration,3,2,3,3,2,3,4,4,3,3,2,3,1,1,1,1,2.6666666666666665,3.1666666666666665,1.0
+R061,Male,30–39,Less than 2 years,Master's degree,Permanent,Service Delivery,3,3,3,2,2,3,5,4,5,4,4,4,1,1,1,1,2.6666666666666665,4.333333333333333,1.0
+R062,Male,50 and above,2–5 years,Bachelor's degree,Permanent,Service Delivery,3,2,2,2,3,3,4,3,3,4,4,4,1,2,2,1,2.5,3.6666666666666665,1.5
+R063,Female,50 and above,2–5 years,Bachelor's degree,Permanent,Finance,4,3,4,4,3,4,3,2,2,3,2,3,1,1,1,2,3.6666666666666665,2.5,1.25
+R064,Male,40–49,6–10 years,Honours,Permanent,Administration,3,2,1,2,2,2,4,5,5,5,4,5,2,2,1,2,2.0,4.666666666666667,1.75
+R066,Female,30–39,6–10 years,Honours,Permanent,Legal & Compliance,3,3,3,3,3,3,4,3,3,4,3,4,1,2,2,1,3.0,3.5,1.5
+R067,Male,30–39,More than 10 years,Diploma,Casual,Finance,2,3,3,3,3,3,4,3,4,3,3,4,1,1,1,2,2.8333333333333335,3.5,1.25
+R068,Female,30–39,More than 10 years,Master's degree,Permanent,Service Delivery,4,4,4,4,4,4,2,2,2,2,2,2,1,2,1,1,4.0,2.0,1.25
+R069,Male,40–49,2–5 years,Bachelor's degree,Contract,IT & Systems,3,2,3,2,2,2,4,4,4,4,4,4,2,2,1,2,2.3333333333333335,4.0,1.75
+R070,Female,40–49,More than 10 years,Bachelor's degree,Contract,Human Resources,4,4,4,4,4,4,3,2,3,2,3,2,1,1,1,1,4.0,2.5,1.0
+R071,Female,40–49,Less than 2 years,Master's degree,Permanent,Administration,2,3,2,2,3,3,3,3,3,3,3,3,1,1,1,2,2.5,3.0,1.25
+R072,Male,40–49,More than 10 years,Doctoral degree,Contract,Administration,4,5,5,4,4,5,3,2,2,1,4,2,1,1,2,1,4.5,2.3333333333333335,1.25
+R073,Male,Under 30,Less than 2 years,Master's degree,Contract,IT & Systems,5,5,5,5,5,5,2,1,2,1,2,2,1,1,1,1,5.0,1.6666666666666667,1.0
+R074,Female,30–39,2–5 years,Master's degree,Permanent,Service Delivery,2,2,2,2,2,2,5,3,4,4,4,4,2,2,3,2,2.0,4.0,2.25
+R075,Female,Under 30,More than 10 years,Honours,Permanent,Service Delivery,5,4,5,3,4,4,3,3,1,3,2,3,2,1,1,1,4.166666666666667,2.5,1.25
+R076,Female,30–39,Less than 2 years,Honours,Permanent,IT & Systems,3,3,3,3,3,3,3,4,4,4,4,4,1,1,1,1,3.0,3.8333333333333335,1.0
+R077,Female,30–39,2–5 years,Diploma,Contract,Administration,4,3,4,4,4,4,3,4,3,2,3,3,1,2,2,1,3.8333333333333335,3.0,1.5
+R078,Male,50 and above,6–10 years,Bachelor's degree,Contract,Legal & Compliance,3,2,2,2,1,2,3,3,3,3,3,3,1,2,2,1,2.0,3.0,1.5
+R080,Male,Under 30,6–10 years,Bachelor's degree,Permanent,Finance,2,2,2,3,3,2,5,4,4,5,4,4,3,3,3,2,2.3333333333333335,4.333333333333333,2.75
+R081,Female,Under 30,6–10 years,Honours,Contract,Legal & Compliance,4,3,3,3,4,4,3,3,3,3,3,3,1,1,2,1,3.5,3.0,1.25
+R082,Female,40–49,6–10 years,Honours,Permanent,IT & Systems,4,4,3,4,4,3,3,3,3,4,3,3,1,1,1,1,3.6666666666666665,3.1666666666666665,1.0
+R083,Male,40–49,2–5 years,Diploma,Permanent,IT & Systems,4,4,4,4,3,4,4,4,5,4,4,4,1,1,1,1,3.8333333333333335,4.166666666666667,1.0
+R084,Male,Under 30,2–5 years,Bachelor's degree,Permanent,Service Delivery,4,4,4,4,3,4,3,3,4,3,3,4,1,1,1,1,3.8333333333333335,3.3333333333333335,1.0
+R085,Male,Under 30,2–5 years,Honours,Permanent,Service Delivery,3,3,3,4,3,3,3,3,3,3,3,4,2,2,2,2,3.1666666666666665,3.1666666666666665,2.0
+R086,Male,40–49,More than 10 years,Diploma,Permanent,Service Delivery,2,2,3,3,2,3,4,3,5,3,4,5,1,2,2,1,2.5,4.0,1.5
+R087,Female,Under 30,6–10 years,Master's degree,Permanent,Administration,3,2,2,2,2,2,3,3,4,4,3,4,1,2,1,1,2.1666666666666665,3.5,1.25
+R088,Female,40–49,2–5 years,Honours,Permanent,Finance,3,3,3,2,3,4,3,3,4,4,3,4,1,2,2,2,3.0,3.5,1.75
+R089,Female,40–49,6–10 years,Honours,Permanent,Legal & Compliance,1,2,1,1,2,1,4,4,4,5,4,4,2,2,2,2,1.3333333333333333,4.166666666666667,2.0
+R090,Female,Under 30,More than 10 years,Honours,Permanent,Finance,4,3,3,3,3,2,4,4,4,5,4,5,2,2,2,2,3.0,4.333333333333333,2.0
+R091,Male,Under 30,Less than 2 years,Master's degree,Permanent,Finance,3,3,3,4,3,3,3,3,3,3,2,4,1,1,1,2,3.1666666666666665,3.0,1.25
+R092,Female,50 and above,6–10 years,Bachelor's degree,Permanent,Human Resources,2,2,1,2,1,1,5,5,5,5,5,5,1,3,4,2,1.5,5.0,2.5
+R093,Female,30–39,6–10 years,Honours,Permanent,Human Resources,2,1,2,2,2,2,5,4,4,5,4,5,2,2,3,3,1.8333333333333333,4.5,2.5
+R094,Female,30–39,6–10 years,Honours,Permanent,IT & Systems,3,4,3,4,3,3,3,2,2,3,3,3,1,1,1,2,3.3333333333333335,2.6666666666666665,1.25
+R095,Female,40–49,Less than 2 years,Bachelor's degree,Permanent,Legal & Compliance,4,4,5,4,4,5,3,2,2,2,3,2,2,1,1,1,4.333333333333333,2.3333333333333335,1.25
+R096,Female,50 and above,More than 10 years,Master's degree,Permanent,Finance,3,3,3,3,3,4,1,2,1,2,1,2,1,1,1,1,3.1666666666666665,1.5,1.0
+R097,Female,50 and above,More than 10 years,Master's degree,Permanent,Administration,3,2,2,3,3,2,4,4,4,5,4,5,3,3,3,2,2.5,4.333333333333333,2.75
+R098,Male,40–49,6–10 years,Honours,Permanent,Administration,2,2,1,2,1,1,5,5,4,5,5,5,3,3,3,2,1.5,4.833333333333333,2.75
+R099,Male,30–39,6–10 years,Master's degree,Permanent,Legal & Compliance,1,2,2,2,2,2,3,4,4,4,5,4,1,2,2,2,1.8333333333333333,4.0,1.75
+R100,Male,Under 30,More than 10 years,Master's degree,Contract,Service Delivery,3,3,3,3,3,3,3,3,4,4,3,3,1,2,1,2,3.0,3.3333333333333335,1.5
+R101,Male,40–49,6–10 years,Honours,Permanent,Finance,2,3,2,3,2,3,4,4,5,5,5,4,1,2,1,2,2.5,4.5,1.5
+R102,Female,30–39,Less than 2 years,Master's degree,Permanent,Service Delivery,4,4,4,5,4,4,2,2,2,2,2,2,1,1,1,2,4.166666666666667,2.0,1.25
+R103,Male,30–39,6–10 years,Honours,Permanent,Service Delivery,3,2,3,3,2,2,3,3,3,4,3,3,1,1,2,1,2.5,3.1666666666666665,1.25
+R104,Female,50 and above,6–10 years,Honours,Permanent,Service Delivery,3,3,3,3,3,3,4,4,5,4,4,4,2,2,3,3,3.0,4.166666666666667,2.5
+R106,Male,30–39,6–10 years,Master's degree,Permanent,Finance,4,4,3,4,3,4,3,3,3,3,2,3,2,2,2,2,3.6666666666666665,2.8333333333333335,2.0
+R107,Male,Under 30,More than 10 years,Bachelor's degree,Permanent,Service Delivery,5,4,5,5,5,4,3,2,2,2,2,2,1,1,1,1,4.666666666666667,2.1666666666666665,1.0
+R108,Female,30–39,More than 10 years,Master's degree,Permanent,Human Resources,2,1,2,2,2,1,5,5,5,5,4,5,3,3,3,3,1.6666666666666667,4.833333333333333,3.0
+R109,Male,Under 30,2–5 years,Master's degree,Permanent,Service Delivery,4,3,4,3,4,4,2,2,2,2,2,2,1,1,1,1,3.6666666666666665,2.0,1.0
+R110,Male,Under 30,Less than 2 years,Diploma,Contract,Service Delivery,3,3,3,3,2,3,3,3,3,3,3,4,1,1,1,1,2.8333333333333335,3.1666666666666665,1.0
+R111,Male,Under 30,More than 10 years,Master's degree,Contract,Service Delivery,2,2,2,1,2,2,5,4,5,5,4,4,4,3,3,3,1.8333333333333333,4.5,3.25
+R112,Male,40–49,More than 10 years,Bachelor's degree,Permanent,Service Delivery,2,2,2,2,1,2,5,5,5,5,5,5,2,3,3,3,1.8333333333333333,5.0,2.75
+R113,Female,40–49,Less than 2 years,Bachelor's degree,Casual,Administration,4,4,5,4,4,4,3,3,3,3,3,3,1,1,1,1,4.166666666666667,3.0,1.0
+R114,Female,40–49,More than 10 years,Honours,Permanent,IT & Systems,2,2,3,3,3,3,3,3,2,3,3,3,1,2,1,1,2.6666666666666665,2.8333333333333335,1.25
+R115,Female,50 and above,More than 10 years,Bachelor's degree,Permanent,Legal & Compliance,3,3,2,3,2,3,5,4,5,5,5,5,3,2,3,2,2.6666666666666665,4.833333333333333,2.5
+R116,Female,30–39,6–10 years,Master's degree,Permanent,Legal & Compliance,5,5,5,4,5,4,2,2,2,1,1,1,1,1,1,1,4.666666666666667,1.5,1.0
+R117,Female,30–39,6–10 years,Master's degree,Permanent,Administration,3,2,2,3,2,2,3,3,3,4,4,4,1,2,1,1,2.3333333333333335,3.5,1.25
+R118,Male,50 and above,2–5 years,Honours,Contract,Administration,3,3,4,3,3,4,3,3,3,3,3,3,1,1,1,2,3.3333333333333335,3.0,1.25
+R119,Female,30–39,Less than 2 years,Diploma,Permanent,Administration,2,3,3,3,4,3,4,3,4,4,4,4,2,1,1,2,3.0,3.8333333333333335,1.5
+R120,Female,50 and above,2–5 years,Bachelor's degree,Contract,Service Delivery,3,3,3,3,3,4,4,4,4,4,3,4,1,2,1,2,3.1666666666666665,3.8333333333333335,1.5
+R121,Female,Under 30,More than 10 years,Honours,Permanent,Service Delivery,1,2,2,2,1,1,5,5,5,5,5,3,1,2,2,2,1.5,4.666666666666667,1.75
+R122,Female,50 and above,Less than 2 years,Doctoral degree,Contract,Administration,2,2,3,2,2,2,5,5,4,4,5,4,3,3,3,3,2.1666666666666665,4.5,3.0
+R123,Male,Under 30,2–5 years,Honours,Permanent,IT & Systems,4,4,4,3,4,4,3,2,3,3,3,3,1,2,2,1,3.8333333333333335,2.8333333333333335,1.5
+R124,Male,50 and above,2–5 years,Bachelor's degree,Permanent,Service Delivery,5,4,4,4,4,4,3,2,3,3,3,2,1,1,1,1,4.166666666666667,2.6666666666666665,1.0
+R125,Male,30–39,6–10 years,Honours,Permanent,Service Delivery,4,3,3,4,4,3,1,2,1,1,1,2,1,1,1,1,3.5,1.3333333333333333,1.0
+R126,Male,50 and above,More than 10 years,Honours,Permanent,IT & Systems,1,1,1,2,2,1,3,5,4,5,5,4,3,4,3,3,1.3333333333333333,4.333333333333333,3.25
+R127,Female,Under 30,2–5 years,Master's degree,Permanent,IT & Systems,4,4,4,4,3,4,4,2,3,2,2,2,1,1,1,2,3.8333333333333335,2.5,1.25
+R128,Female,30–39,2–5 years,Bachelor's degree,Permanent,IT & Systems,2,2,2,2,2,2,4,4,4,3,4,3,3,2,2,1,2.0,3.6666666666666665,2.0
+R129,Male,50 and above,6–10 years,Master's degree,Contract,Finance,4,3,4,3,3,3,3,3,2,2,3,3,1,2,1,1,3.3333333333333335,2.6666666666666665,1.25
+R131,Male,40–49,2–5 years,Doctoral degree,Permanent,Service Delivery,2,1,2,2,1,2,4,5,5,4,4,5,3,2,2,3,1.6666666666666667,4.5,2.5
+R133,Male,30–39,Less than 2 years,Honours,Permanent,IT & Systems,2,2,2,2,2,2,4,4,5,4,3,3,2,2,3,2,2.0,3.8333333333333335,2.25
+R134,Male,40–49,2–5 years,Master's degree,Permanent,Service Delivery,2,2,2,3,2,3,4,4,4,4,3,4,2,2,2,2,2.3333333333333335,3.8333333333333335,2.0
+R136,Male,50 and above,2–5 years,Master's degree,Permanent,Human Resources,4,4,3,3,4,4,2,3,2,2,2,2,1,1,1,1,3.6666666666666665,2.1666666666666665,1.0
+R138,Female,30–39,2–5 years,Diploma,Permanent,Finance,4,4,4,4,5,4,2,1,1,2,3,2,1,2,1,1,4.166666666666667,1.8333333333333333,1.25
+R139,Male,50 and above,6–10 years,Bachelor's degree,Permanent,Service Delivery,4,4,4,4,4,4,2,3,1,2,3,1,1,1,1,2,4.0,2.0,1.25
+R140,Female,50 and above,6–10 years,Honours,Permanent,Legal & Compliance,4,4,4,4,4,4,3,2,3,3,3,2,1,1,1,1,4.0,2.6666666666666665,1.0
+R141,Female,30–39,Less than 2 years,Diploma,Permanent,Administration,4,3,3,2,3,3,3,4,4,4,4,3,2,1,1,1,3.0,3.6666666666666665,1.25
+R143,Female,30–39,2–5 years,Bachelor's degree,Permanent,Service Delivery,2,1,2,2,2,2,4,5,5,4,5,5,2,2,2,2,1.8333333333333333,4.666666666666667,2.0
+R144,Male,30–39,More than 10 years,Honours,Permanent,Administration,2,2,1,2,1,2,4,4,4,5,4,3,2,1,1,1,1.6666666666666667,4.0,1.25
+R145,Male,30–39,Less than 2 years,Diploma,Casual,IT & Systems,3,3,3,3,3,3,3,3,3,4,3,3,2,1,2,2,3.0,3.1666666666666665,1.75
+R146,Male,30–39,2–5 years,Master's degree,Permanent,Service Delivery,2,2,3,2,2,3,4,4,4,4,4,5,2,2,2,2,2.3333333333333335,4.166666666666667,2.0
+R147,Female,40–49,Less than 2 years,Doctoral degree,Contract,IT & Systems,2,2,2,2,3,3,4,4,4,4,3,3,1,1,2,2,2.3333333333333335,3.6666666666666665,1.5
+R148,Female,Under 30,More than 10 years,Doctoral degree,Permanent,Administration,3,3,3,3,3,2,4,3,4,5,4,4,1,1,1,1,2.8333333333333335,4.0,1.0
+R149,Male,50 and above,6–10 years,Honours,Permanent,Finance,3,3,3,3,3,3,3,3,4,3,3,3,2,3,2,2,3.0,3.1666666666666665,2.25
+R150,Male,50 and above,6–10 years,Bachelor's degree,Permanent,Service Delivery,4,4,4,4,4,4,2,2,2,2,2,1,1,1,1,1,4.0,1.8333333333333333,1.0
+R152,Male,30–39,6–10 years,Diploma,Permanent,Administration,3,3,3,4,4,3,2,3,3,3,3,3,1,1,1,1,3.3333333333333335,2.8333333333333335,1.0
+R153,Male,30–39,2–5 years,Diploma,Contract,Service Delivery,2,2,2,3,2,2,4,4,4,4,4,3,2,1,2,2,2.1666666666666665,3.8333333333333335,1.75
+R154,Female,40–49,More than 10 years,Bachelor's degree,Contract,Administration,2,3,2,3,3,2,3,3,2,3,3,3,1,1,1,1,2.5,2.8333333333333335,1.0
+R155,Female,40–49,2–5 years,Honours,Permanent,Service Delivery,1,1,2,2,1,3,4,3,4,4,5,4,2,1,2,2,1.6666666666666667,4.0,1.75
+R157,Female,50 and above,Less than 2 years,Honours,Permanent,Legal & Compliance,3,2,3,2,2,3,3,4,4,3,3,4,1,1,1,2,2.5,3.5,1.25
+R158,Female,40–49,6–10 years,Honours,Permanent,Finance,2,3,3,3,3,3,4,4,3,4,4,4,1,2,2,2,2.8333333333333335,3.8333333333333335,1.75
+R159,Male,50 and above,6–10 years,Bachelor's degree,Contract,Finance,4,4,5,4,4,4,2,3,2,2,3,2,1,1,1,1,4.166666666666667,2.3333333333333335,1.0
+R160,Female,40–49,Less than 2 years,Doctoral degree,Contract,Administration,3,3,2,2,3,3,4,4,4,4,3,4,1,2,2,2,2.6666666666666665,3.8333333333333335,1.75
+R161,Male,40–49,More than 10 years,Bachelor's degree,Permanent,Finance,3,3,3,3,3,4,5,3,4,3,3,5,2,1,2,1,3.1666666666666665,3.8333333333333335,1.5
+R162,Female,30–39,2–5 years,Honours,Permanent,Service Delivery,1,2,2,2,2,2,4,3,4,4,4,4,2,2,2,2,1.8333333333333333,3.8333333333333335,2.0
+R163,Female,50 and above,6–10 years,Bachelor's degree,Contract,Legal & Compliance,2,3,2,3,2,2,4,3,3,3,3,4,1,2,1,1,2.3333333333333335,3.3333333333333335,1.25
+R164,Female,50 and above,2–5 years,Master's degree,Permanent,Finance,2,2,2,2,3,2,3,2,4,3,3,4,3,2,2,1,2.1666666666666665,3.1666666666666665,2.0
+R165,Male,Under 30,2–5 years,Honours,Contract,Human Resources,2,2,2,3,3,3,4,4,3,3,3,3,2,1,1,1,2.5,3.3333333333333335,1.25
+R166,Female,Under 30,6–10 years,Bachelor's degree,Permanent,Service Delivery,2,2,2,2,2,3,3,4,3,3,3,4,2,3,1,2,2.1666666666666665,3.3333333333333335,2.0
+R167,Male,30–39,Less than 2 years,Diploma,Permanent,Legal & Compliance,3,3,3,3,2,2,3,4,3,3,3,3,2,1,2,2,2.6666666666666665,3.1666666666666665,1.75
+R168,Male,40–49,2–5 years,Honours,Permanent,IT & Systems,3,3,3,3,4,4,1,2,3,2,3,2,1,1,1,1,3.3333333333333335,2.1666666666666665,1.0
+R169,Male,50 and above,More than 10 years,Honours,Permanent,Human Resources,3,3,3,4,4,4,3,3,3,2,3,3,1,1,1,2,3.5,2.8333333333333335,1.25
+R170,Female,Under 30,More than 10 years,Bachelor's degree,Permanent,Human Resources,1,1,2,2,2,2,5,5,4,4,4,5,2,3,2,2,1.6666666666666667,4.5,2.25
+R171,Female,40–49,2–5 years,Doctoral degree,Permanent,Service Delivery,4,4,4,4,4,4,2,2,3,2,3,2,1,1,1,1,4.0,2.3333333333333335,1.0
+R172,Male,30–39,2–5 years,Bachelor's degree,Permanent,Administration,4,4,4,5,4,4,2,2,3,3,3,2,1,1,1,2,4.166666666666667,2.5,1.25
+R173,Female,50 and above,6–10 years,Honours,Contract,IT & Systems,2,2,2,1,1,2,4,4,4,4,4,4,3,1,3,2,1.6666666666666667,4.0,2.25
+R174,Male,40–49,2–5 years,Master's degree,Contract,Finance,3,2,2,3,3,3,3,2,3,3,3,2,1,1,1,1,2.6666666666666665,2.6666666666666665,1.0
+R175,Female,40–49,Less than 2 years,Bachelor's degree,Permanent,Service Delivery,2,3,1,2,2,3,4,4,3,3,4,4,2,2,2,3,2.1666666666666665,3.6666666666666665,2.25
+R176,Male,30–39,Less than 2 years,Honours,Permanent,Administration,3,3,2,3,3,3,2,3,3,4,3,3,2,2,2,1,2.8333333333333335,3.0,1.75
+R177,Female,30–39,6–10 years,Bachelor's degree,Permanent,IT & Systems,3,3,3,3,2,2,4,4,3,4,4,3,2,1,2,1,2.6666666666666665,3.6666666666666665,1.5
+R178,Male,30–39,6–10 years,Bachelor's degree,Permanent,Human Resources,2,2,2,2,2,2,3,3,2,2,3,2,1,1,1,1,2.0,2.5,1.0
+R179,Female,Under 30,Less than 2 years,Doctoral degree,Permanent,Service Delivery,2,2,1,2,2,2,4,3,4,4,4,3,2,1,2,1,1.8333333333333333,3.6666666666666665,1.5
+R180,Male,50 and above,2–5 years,Bachelor's degree,Permanent,Administration,4,4,5,4,5,5,3,2,2,2,3,3,1,1,1,1,4.5,2.5,1.0
+R181,Male,40–49,2–5 years,Master's degree,Permanent,IT & Systems,5,4,4,5,4,4,2,3,2,3,3,2,1,1,1,1,4.333333333333333,2.5,1.0
+R182,Male,50 and above,6–10 years,Bachelor's degree,Permanent,IT & Systems,3,4,3,4,3,3,4,4,4,4,4,4,1,1,2,2,3.3333333333333335,4.0,1.5
+R183,Female,50 and above,Less than 2 years,Bachelor's degree,Permanent,IT & Systems,2,3,2,3,2,2,4,4,4,4,4,4,1,1,1,1,2.3333333333333335,4.0,1.0
+R184,Female,30–39,Less than 2 years,Diploma,Permanent,IT & Systems,5,4,4,4,4,4,2,2,2,2,1,2,1,1,1,1,4.166666666666667,1.8333333333333333,1.0
+R185,Male,40–49,More than 10 years,Honours,Casual,Service Delivery,3,3,3,3,4,3,3,3,2,3,3,4,1,1,2,1,3.1666666666666665,3.0,1.25
+R186,Female,50 and above,2–5 years,Bachelor's degree,Permanent,Service Delivery,4,5,5,5,5,4,1,1,1,2,1,1,1,1,1,2,4.666666666666667,1.1666666666666667,1.25
+R187,Female,40–49,6–10 years,Master's degree,Permanent,Finance,2,2,2,2,2,2,3,4,4,3,5,4,2,1,2,1,2.0,3.8333333333333335,1.5
+R188,Female,30–39,2–5 years,Honours,Permanent,Service Delivery,4,4,3,4,4,4,2,2,2,2,2,2,1,1,1,1,3.8333333333333335,2.0,1.0
+R189,Female,30–39,Less than 2 years,Doctoral degree,Permanent,Human Resources,3,2,2,3,3,2,4,4,4,4,4,3,2,2,2,2,2.5,3.8333333333333335,2.0
+R190,Male,Under 30,2–5 years,Bachelor's degree,Permanent,Administration,4,4,4,5,4,5,2,3,2,2,3,3,1,1,1,2,4.333333333333333,2.5,1.25
+R191,Male,50 and above,6–10 years,Master's degree,Permanent,Administration,3,2,2,2,2,3,4,3,3,4,4,3,1,1,1,2,2.3333333333333335,3.5,1.25
+R193,Female,30–39,More than 10 years,Master's degree,Permanent,Service Delivery,5,4,4,4,4,4,4,3,3,4,4,4,1,1,1,1,4.166666666666667,3.6666666666666665,1.0
+R194,Female,40–49,2–5 years,Master's degree,Permanent,Service Delivery,1,2,1,2,2,2,4,3,4,3,4,4,2,2,2,2,1.6666666666666667,3.6666666666666665,2.0
+R195,Male,40–49,6–10 years,Master's degree,Contract,Service Delivery,4,4,4,5,4,5,3,4,4,3,3,4,2,1,1,1,4.333333333333333,3.5,1.25
+R197,Female,Under 30,2–5 years,Bachelor's degree,Permanent,Human Resources,3,4,5,4,4,4,3,3,4,2,3,4,1,1,1,1,4.0,3.1666666666666665,1.0
+R198,Female,40–49,More than 10 years,Diploma,Permanent,Administration,4,4,3,3,3,3,3,4,3,3,3,3,1,1,1,1,3.3333333333333335,3.1666666666666665,1.0
+R199,Female,30–39,Less than 2 years,Master's degree,Permanent,Finance,3,3,3,3,3,2,4,4,4,4,4,3,2,2,1,2,2.8333333333333335,3.8333333333333335,1.75
+R200,Female,40–49,Less than 2 years,Honours,Contract,Human Resources,3,4,3,4,4,4,2,1,2,2,2,1,1,1,1,1,3.6666666666666665,1.6666666666666667,1.0
+R201,Female,30–39,2–5 years,Master's degree,Permanent,Administration,3,3,2,3,4,4,3,3,4,3,4,3,1,1,1,1,3.1666666666666665,3.3333333333333335,1.0
+R202,Male,40–49,Less than 2 years,Honours,Permanent,Finance,3,4,4,4,4,5,2,3,3,3,2,3,2,1,1,2,4.0,2.6666666666666665,1.5
+R203,Male,30–39,2–5 years,Bachelor's degree,Permanent,IT & Systems,2,2,2,2,2,2,4,4,4,4,4,4,1,1,1,1,2.0,4.0,1.0
+R204,Female,40–49,6–10 years,Bachelor's degree,Permanent,Service Delivery,4,3,4,4,4,4,2,1,2,2,2,1,1,1,1,1,3.8333333333333335,1.6666666666666667,1.0
+R206,Male,30–39,More than 10 years,Honours,Permanent,Legal & Compliance,4,5,4,4,4,5,3,3,3,4,3,4,1,1,1,1,4.333333333333333,3.3333333333333335,1.0
+R207,Male,Under 30,More than 10 years,Bachelor's degree,Permanent,Service Delivery,3,4,4,3,3,3,4,4,3,4,4,4,1,1,1,1,3.3333333333333335,3.8333333333333335,1.0
+R208,Female,Under 30,2–5 years,Honours,Contract,Human Resources,4,3,4,4,3,3,3,3,3,3,2,3,1,1,1,1,3.5,2.8333333333333335,1.0
+R209,Male,40–49,2–5 years,Diploma,Permanent,IT & Systems,4,4,4,4,4,4,2,3,3,2,2,3,1,1,1,1,4.0,2.5,1.0
+R210,Male,40–49,2–5 years,Honours,Permanent,Service Delivery,4,4,4,5,4,4,2,2,2,2,2,2,1,2,1,1,4.166666666666667,2.0,1.25
+R211,Female,40–49,6–10 years,Bachelor's degree,Contract,Administration,3,2,1,2,3,2,3,3,4,3,2,3,2,1,1,1,2.1666666666666665,3.0,1.25
+R213,Female,Under 30,6–10 years,Bachelor's degree,Permanent,Service Delivery,4,3,3,4,4,4,4,4,3,4,4,3,1,1,1,1,3.6666666666666665,3.6666666666666665,1.0
+R214,Male,Under 30,2–5 years,Honours,Permanent,Human Resources,2,2,2,2,3,2,4,4,4,4,3,4,2,2,2,1,2.1666666666666665,3.8333333333333335,1.75
+R215,Female,30–39,6–10 years,Diploma,Permanent,IT & Systems,3,2,2,2,2,3,3,4,4,4,4,4,1,1,1,1,2.3333333333333335,3.8333333333333335,1.0
+R216,Male,40–49,2–5 years,Diploma,Permanent,IT & Systems,4,4,3,4,4,4,3,2,3,3,3,3,1,1,1,1,3.8333333333333335,2.8333333333333335,1.0
+R217,Male,30–39,2–5 years,Bachelor's degree,Casual,Administration,4,3,5,4,4,3,4,3,4,3,3,3,2,1,1,1,3.8333333333333335,3.3333333333333335,1.25
+R218,Female,30–39,More than 10 years,Honours,Permanent,Finance,4,5,5,5,5,5,2,3,3,2,2,3,1,1,1,1,4.833333333333333,2.5,1.0
+R219,Female,50 and above,More than 10 years,Honours,Permanent,Finance,2,3,3,2,3,2,5,5,5,4,4,5,3,3,3,3,2.5,4.666666666666667,3.0
+R220,Female,30–39,Less than 2 years,Bachelor's degree,Contract,Administration,1,2,1,1,1,2,5,4,4,4,4,5,4,3,4,3,1.3333333333333333,4.333333333333333,3.5
+R221,Female,30–39,More than 10 years,Honours,Permanent,Administration,4,5,4,4,4,5,5,5,5,5,4,5,4,4,4,5,4.333333333333333,4.833333333333333,4.25
+R222,Female,40–49,6–10 years,Master's degree,Permanent,Service Delivery,3,2,2,2,2,2,3,3,3,3,3,3,2,2,2,2,2.1666666666666665,3.0,2.0
+R223,Male,30–39,More than 10 years,Master's degree,Permanent,Finance,3,2,2,2,2,2,3,4,5,5,5,4,3,3,3,3,2.1666666666666665,4.333333333333333,3.0
+R224,Male,40–49,More than 10 years,Diploma,Casual,IT & Systems,4,3,4,3,4,4,2,2,2,2,1,2,1,1,1,1,3.6666666666666665,1.8333333333333333,1.0
+R225,Male,50 and above,2–5 years,Honours,Permanent,Finance,2,2,2,2,2,2,5,5,4,5,5,4,2,2,2,1,2.0,4.666666666666667,1.75
+R226,Male,50 and above,Less than 2 years,Bachelor's degree,Permanent,Legal & Compliance,3,3,2,3,3,3,2,3,3,2,2,2,1,2,1,1,2.8333333333333335,2.3333333333333335,1.25
+R227,Female,Under 30,2–5 years,Bachelor's degree,Permanent,Finance,3,3,2,2,2,2,3,4,3,4,3,4,2,2,2,2,2.3333333333333335,3.5,2.0
+R228,Male,50 and above,6–10 years,Doctoral degree,Permanent,Human Resources,4,4,4,4,3,4,3,2,3,3,2,3,1,1,2,1,3.8333333333333335,2.6666666666666665,1.25
+R229,Female,30–39,6–10 years,Bachelor's degree,Permanent,Service Delivery,3,3,3,3,3,3,4,3,2,2,2,3,1,1,1,2,3.0,2.6666666666666665,1.25
+R230,Female,30–39,2–5 years,Honours,Permanent,Service Delivery,3,3,3,4,3,3,3,2,3,3,2,4,2,1,1,2,3.1666666666666665,2.8333333333333335,1.5
+R231,Female,30–39,Less than 2 years,Honours,Contract,Administration,4,4,4,4,4,4,2,2,4,3,3,2,1,1,1,1,4.0,2.6666666666666665,1.0
+R233,Female,30–39,More than 10 years,Honours,Permanent,Human Resources,2,3,2,3,3,3,3,3,3,2,4,3,2,1,1,2,2.6666666666666665,3.0,1.5
+R234,Female,30–39,6–10 years,Diploma,Contract,Human Resources,3,2,2,3,3,2,5,4,4,3,4,4,2,2,2,3,2.5,4.0,2.25
+R235,Male,40–49,2–5 years,Bachelor's degree,Contract,Administration,2,4,3,3,3,3,3,4,3,4,4,3,1,1,1,1,3.0,3.5,1.0
+R236,Female,30–39,2–5 years,Honours,Permanent,Administration,4,3,4,3,3,4,2,3,2,2,2,3,1,1,1,1,3.5,2.3333333333333335,1.0
+R237,Male,Under 30,Less than 2 years,Diploma,Permanent,Service Delivery,5,5,4,4,4,4,2,2,3,2,2,2,1,1,1,1,4.333333333333333,2.1666666666666665,1.0
+R238,Male,Under 30,More than 10 years,Bachelor's degree,Permanent,Human Resources,4,3,4,4,4,3,3,2,2,3,3,3,2,1,1,1,3.6666666666666665,2.6666666666666665,1.25
+R239,Female,Under 30,Less than 2 years,Diploma,Casual,Human Resources,5,5,5,5,5,4,3,3,2,3,3,2,1,1,1,1,4.833333333333333,2.6666666666666665,1.0
+R240,Male,Under 30,6–10 years,Diploma,Contract,Service Delivery,1,1,1,1,2,1,4,4,4,4,5,5,2,3,3,3,1.1666666666666667,4.333333333333333,2.75
+R241,Female,Under 30,2–5 years,Bachelor's degree,Permanent,Service Delivery,3,2,3,3,3,3,3,3,4,4,4,4,2,1,1,2,2.8333333333333335,3.6666666666666665,1.5
+R242,Female,40–49,6–10 years,Bachelor's degree,Contract,Administration,4,4,4,3,4,5,2,3,3,3,3,3,1,1,1,1,4.0,2.8333333333333335,1.0
+R244,Male,30–39,More than 10 years,Honours,Permanent,Administration,5,4,4,4,5,5,2,3,3,3,2,3,1,1,1,1,4.5,2.6666666666666665,1.0
+R245,Male,50 and above,2–5 years,Master's degree,Permanent,Service Delivery,3,2,2,2,2,2,4,4,5,3,4,5,3,2,3,2,2.1666666666666665,4.166666666666667,2.5
+R246,Female,30–39,Less than 2 years,Bachelor's degree,Contract,Service Delivery,3,3,3,3,3,3,3,3,4,4,3,3,2,2,2,2,3.0,3.3333333333333335,2.0
+R247,Male,40–49,Less than 2 years,Bachelor's degree,Permanent,Legal & Compliance,3,3,3,3,2,2,3,4,3,4,3,4,2,1,1,1,2.6666666666666665,3.5,1.25
+R249,Female,30–39,More than 10 years,Honours,Contract,Administration,2,3,2,2,2,2,3,4,4,5,5,4,2,1,1,2,2.1666666666666665,4.166666666666667,1.5
+R250,Female,Under 30,6–10 years,Honours,Permanent,Finance,5,4,5,4,5,4,4,3,3,3,2,3,1,1,1,1,4.5,3.0,1.0
+R251,Male,Under 30,6–10 years,Diploma,Permanent,Finance,2,3,3,2,3,3,4,3,3,3,4,3,1,1,1,1,2.6666666666666665,3.3333333333333335,1.0
+R252,Male,30–39,6–10 years,Master's degree,Permanent,Finance,5,4,4,5,4,4,3,3,2,3,2,2,1,1,2,2,4.333333333333333,2.5,1.5
+R253,Female,Under 30,2–5 years,Diploma,Permanent,Legal & Compliance,3,3,2,2,2,3,2,3,3,3,2,2,1,1,1,1,2.5,2.5,1.0
+R254,Male,Under 30,More than 10 years,Honours,Permanent,Finance,2,2,2,3,1,2,5,3,4,2,4,4,2,2,2,2,2.0,3.6666666666666665,2.0
+R256,Female,30–39,2–5 years,Master's degree,Contract,Service Delivery,5,5,5,5,4,5,1,1,2,2,2,1,1,1,1,1,4.833333333333333,1.5,1.0
+R257,Female,30–39,6–10 years,Honours,Permanent,Human Resources,2,3,3,2,3,3,3,3,3,3,3,3,1,1,1,1,2.6666666666666665,3.0,1.0
+R258,Female,30–39,Less than 2 years,Master's degree,Permanent,Service Delivery,4,4,4,4,4,4,3,1,2,2,3,2,1,1,1,1,4.0,2.1666666666666665,1.0
+R259,Female,30–39,2–5 years,Bachelor's degree,Permanent,Administration,3,3,4,4,4,4,3,2,3,2,3,3,1,1,2,1,3.6666666666666665,2.6666666666666665,1.25
+R260,Male,40–49,6–10 years,Master's degree,Permanent,Human Resources,3,4,4,4,3,3,2,2,2,3,2,2,1,1,1,1,3.5,2.1666666666666665,1.0
+R261,Female,Under 30,Less than 2 years,Diploma,Permanent,Administration,5,4,5,3,3,4,1,1,2,2,2,1,1,1,1,1,4.0,1.5,1.0
+R262,Female,40–49,6–10 years,Master's degree,Permanent,Administration,3,3,1,2,2,2,3,3,2,3,4,2,1,1,1,1,2.1666666666666665,2.8333333333333335,1.0
+R263,Male,40–49,2–5 years,Honours,Contract,Legal & Compliance,5,4,4,4,4,4,2,3,2,2,2,3,1,1,2,1,4.166666666666667,2.3333333333333335,1.25
+R264,Female,Under 30,2–5 years,Master's degree,Permanent,Administration,1,2,2,2,2,2,4,4,4,4,4,4,4,4,3,4,1.8333333333333333,4.0,3.75
+R265,Female,50 and above,2–5 years,Honours,Casual,IT & Systems,2,2,2,2,2,2,2,2,3,3,2,2,1,1,2,1,2.0,2.3333333333333335,1.25
+R266,Female,50 and above,2–5 years,Honours,Contract,Human Resources,4,5,5,4,5,5,1,2,2,2,1,2,1,1,1,1,4.666666666666667,1.6666666666666667,1.0
+R267,Female,Under 30,6–10 years,Honours,Permanent,Finance,3,4,3,3,3,3,3,3,3,3,3,3,1,1,1,1,3.1666666666666665,3.0,1.0
+R268,Female,30–39,2–5 years,Honours,Contract,Legal & Compliance,3,2,3,3,3,3,4,3,3,4,3,4,1,1,1,1,2.8333333333333335,3.5,1.0
+R269,Male,40–49,6–10 years,Diploma,Permanent,Administration,4,4,4,3,4,4,2,3,3,4,3,2,1,1,1,2,3.8333333333333335,2.8333333333333335,1.25
+R270,Male,40–49,6–10 years,Diploma,Contract,Service Delivery,2,2,3,1,4,3,4,4,4,3,4,4,3,2,2,2,2.5,3.8333333333333335,2.25
+R271,Female,30–39,6–10 years,Bachelor's degree,Permanent,Legal & Compliance,3,2,2,2,1,2,4,4,3,3,4,5,2,2,3,2,2.0,3.8333333333333335,2.25
+R272,Female,30–39,More than 10 years,Bachelor's degree,Contract,IT & Systems,2,2,2,2,2,2,2,4,3,3,4,4,3,3,2,3,2.0,3.3333333333333335,2.75
+R273,Female,30–39,6–10 years,Master's degree,Contract,Legal & Compliance,3,2,2,2,2,2,4,5,3,3,4,4,1,1,1,1,2.1666666666666665,3.8333333333333335,1.0
+R274,Female,30–39,2–5 years,Bachelor's degree,Contract,Administration,2,1,2,3,3,2,3,4,4,3,4,4,2,2,2,2,2.1666666666666665,3.6666666666666665,2.0
+R275,Female,40–49,Less than 2 years,Doctoral degree,Contract,Human Resources,4,4,4,4,4,4,3,3,2,2,3,2,1,1,1,1,4.0,2.5,1.0
+R276,Female,30–39,2–5 years,Bachelor's degree,Permanent,Finance,4,4,3,4,4,4,5,5,5,4,4,5,3,2,3,2,3.8333333333333335,4.666666666666667,2.5
+R277,Male,30–39,6–10 years,Bachelor's degree,Permanent,Service Delivery,4,4,4,4,4,4,1,1,1,1,2,2,1,1,1,1,4.0,1.3333333333333333,1.0
+R278,Female,40–49,Less than 2 years,Master's degree,Permanent,Legal & Compliance,3,2,2,2,3,1,4,5,4,5,5,5,2,3,3,2,2.1666666666666665,4.666666666666667,2.5
+R279,Female,Under 30,6–10 years,Honours,Permanent,Finance,3,3,3,2,3,2,3,2,3,3,3,4,1,1,1,1,2.6666666666666665,3.0,1.0
+R280,Female,30–39,6–10 years,Honours,Permanent,Service Delivery,4,3,3,4,3,4,3,2,2,3,2,3,1,1,1,1,3.5,2.5,1.0
+R281,Female,40–49,2–5 years,Honours,Permanent,Administration,1,2,1,1,1,2,4,5,5,5,4,4,2,3,4,3,1.3333333333333333,4.5,3.0
+R282,Male,50 and above,More than 10 years,Honours,Casual,IT & Systems,1,1,1,2,1,2,4,5,4,4,4,5,2,2,2,2,1.3333333333333333,4.333333333333333,2.0
+R283,Male,30–39,Less than 2 years,Bachelor's degree,Permanent,Human Resources,4,5,3,4,3,4,3,2,2,2,3,2,1,1,2,1,3.8333333333333335,2.3333333333333335,1.25
+R284,Male,30–39,Less than 2 years,Doctoral degree,Contract,Legal & Compliance,3,3,3,3,3,3,3,4,4,4,4,4,2,1,2,1,3.0,3.8333333333333335,1.5
+R285,Female,Under 30,6–10 years,Doctoral degree,Permanent,IT & Systems,4,3,3,4,4,3,2,2,2,1,2,2,1,1,1,1,3.5,1.8333333333333333,1.0
+R286,Male,30–39,6–10 years,Honours,Contract,Finance,2,3,2,4,2,3,3,4,4,3,4,3,1,1,1,1,2.6666666666666665,3.5,1.0
+R287,Female,30–39,6–10 years,Bachelor's degree,Contract,Administration,4,5,4,5,5,4,2,2,2,2,1,1,1,1,1,1,4.5,1.6666666666666667,1.0
+R288,Female,30–39,2–5 years,Honours,Permanent,Administration,3,2,3,2,3,2,3,3,3,3,3,3,2,1,1,1,2.5,3.0,1.25
+R289,Male,30–39,2–5 years,Diploma,Permanent,Finance,2,3,3,3,2,2,3,4,3,4,2,3,2,2,2,1,2.5,3.1666666666666665,1.75
+R290,Female,30–39,More than 10 years,Diploma,Contract,Finance,3,3,3,3,3,3,5,4,4,4,4,3,1,2,2,1,3.0,4.0,1.5
+R291,Male,Under 30,More than 10 years,Bachelor's degree,Permanent,Service Delivery,3,3,3,4,4,3,3,3,3,3,2,3,1,1,1,1,3.3333333333333335,2.8333333333333335,1.0
+R292,Male,30–39,6–10 years,Honours,Permanent,IT & Systems,4,5,3,4,5,4,2,3,2,2,3,2,1,1,1,1,4.166666666666667,2.3333333333333335,1.0
+R293,Female,30–39,2–5 years,Master's degree,Permanent,IT & Systems,2,2,2,2,2,2,4,4,3,4,4,3,1,2,1,1,2.0,3.6666666666666665,1.25
+R294,Male,30–39,6–10 years,Honours,Permanent,Administration,4,4,4,3,4,3,3,4,3,4,3,3,1,1,2,1,3.6666666666666665,3.3333333333333335,1.25
+R295,Male,Under 30,2–5 years,Honours,Permanent,Service Delivery,2,2,2,2,2,2,5,5,5,4,5,5,3,2,2,3,2.0,4.833333333333333,2.5
+R296,Female,50 and above,Less than 2 years,Bachelor's degree,Permanent,Service Delivery,4,4,4,4,4,3,3,3,3,4,3,3,2,3,2,2,3.8333333333333335,3.1666666666666665,2.25
+R297,Female,40–49,More than 10 years,Bachelor's degree,Permanent,Administration,3,4,3,3,3,4,3,2,2,4,3,3,1,2,1,1,3.3333333333333335,2.8333333333333335,1.25
+R298,Male,40–49,Less than 2 years,Bachelor's degree,Permanent,Service Delivery,4,3,4,5,5,4,3,3,4,3,3,3,1,1,2,1,4.166666666666667,3.1666666666666665,1.25
+R300,Male,30–39,2–5 years,Diploma,Permanent,Administration,3,3,2,2,3,3,4,4,4,4,5,5,3,2,3,2,2.6666666666666665,4.333333333333333,2.5
+R301,Male,Under 30,2–5 years,Master's degree,Casual,Human Resources,3,4,4,4,4,3,2,3,2,2,2,3,1,1,1,1,3.6666666666666665,2.3333333333333335,1.0
+R302,Female,30–39,6–10 years,Honours,Permanent,Human Resources,4,3,3,3,3,3,4,3,3,3,3,3,1,2,1,1,3.1666666666666665,3.1666666666666665,1.25
+R304,Female,40–49,6–10 years,Honours,Permanent,Legal & Compliance,4,4,3,3,3,4,2,3,3,2,3,3,1,1,1,1,3.5,2.6666666666666665,1.0
+R305,Female,30–39,More than 10 years,Honours,Permanent,Service Delivery,5,4,4,4,5,4,2,3,2,2,3,2,1,1,1,1,4.333333333333333,2.3333333333333335,1.0
+R306,Female,Under 30,6–10 years,Master's degree,Permanent,Service Delivery,1,2,2,1,1,2,4,4,5,5,3,5,3,3,2,3,1.5,4.333333333333333,2.75
+R307,Female,30–39,6–10 years,Master's degree,Permanent,Human Resources,4,5,4,5,4,5,1,1,2,2,2,1,1,2,1,1,4.5,1.5,1.25
+R308,Male,30–39,More than 10 years,Bachelor's degree,Permanent,Human Resources,4,4,4,4,3,3,3,3,4,3,3,3,1,2,1,1,3.6666666666666665,3.1666666666666665,1.25
+R309,Female,40–49,2–5 years,Bachelor's degree,Permanent,Service Delivery,2,3,3,3,3,3,4,4,5,5,4,5,2,2,2,2,2.8333333333333335,4.5,2.0
+R310,Male,40–49,6–10 years,Honours,Permanent,IT & Systems,3,3,3,4,4,3,3,4,3,3,4,3,1,1,1,1,3.3333333333333335,3.3333333333333335,1.0
+R311,Male,30–39,2–5 years,Master's degree,Permanent,Administration,3,3,3,3,2,2,4,5,4,4,4,4,1,1,1,1,2.6666666666666665,4.166666666666667,1.0
+R312,Male,50 and above,More than 10 years,Bachelor's degree,Permanent,IT & Systems,4,5,4,4,5,4,2,2,1,2,2,2,1,1,1,1,4.333333333333333,1.8333333333333333,1.0
+R313,Male,40–49,More than 10 years,Honours,Contract,Service Delivery,2,4,3,3,3,2,4,4,3,3,3,3,1,1,1,1,2.8333333333333335,3.3333333333333335,1.0
+R314,Female,30–39,Less than 2 years,Honours,Permanent,Human Resources,5,4,4,4,5,5,3,3,2,3,3,3,1,1,2,1,4.5,2.8333333333333335,1.25
+R315,Female,Under 30,6–10 years,Honours,Permanent,Administration,3,3,3,3,3,4,3,4,4,4,3,3,1,1,2,2,3.1666666666666665,3.5,1.5
+R316,Female,Under 30,More than 10 years,Bachelor's degree,Casual,Service Delivery,5,5,5,5,5,5,5,4,5,4,4,4,4,5,5,4,5.0,4.333333333333333,4.5
+R317,Male,30–39,2–5 years,Honours,Permanent,Administration,4,4,3,4,5,4,2,2,2,3,2,3,1,1,1,1,4.0,2.3333333333333335,1.0
+R318,Male,Under 30,6–10 years,Master's degree,Permanent,Finance,4,3,4,3,3,3,3,2,3,2,3,3,1,1,2,1,3.3333333333333335,2.6666666666666665,1.25
+R319,Male,30–39,More than 10 years,Bachelor's degree,Casual,Administration,4,4,3,3,4,3,2,2,2,1,2,2,1,1,1,1,3.5,1.8333333333333333,1.0
+R321,Female,Under 30,6–10 years,Doctoral degree,Permanent,Service Delivery,4,3,4,4,4,4,3,3,2,3,2,3,1,1,1,1,3.8333333333333335,2.6666666666666665,1.0
+R323,Female,Under 30,More than 10 years,Master's degree,Permanent,Administration,2,2,3,3,2,3,4,4,3,4,4,4,3,2,2,2,2.5,3.8333333333333335,2.25
+R324,Male,30–39,More than 10 years,Honours,Permanent,Service Delivery,3,3,3,3,2,3,3,3,4,3,3,4,1,2,2,1,2.8333333333333335,3.3333333333333335,1.5
+R325,Female,30–39,More than 10 years,Bachelor's degree,Permanent,Service Delivery,4,4,5,5,5,4,1,2,2,2,2,2,2,1,1,1,4.5,1.8333333333333333,1.25
+R326,Female,50 and above,6–10 years,Master's degree,Permanent,Service Delivery,1,1,1,1,2,1,4,4,4,5,4,4,2,2,3,3,1.1666666666666667,4.166666666666667,2.5
+R327,Female,Under 30,More than 10 years,Honours,Permanent,Finance,4,3,3,4,3,4,3,3,3,4,3,3,1,2,2,2,3.5,3.1666666666666665,1.75
+R328,Female,30–39,More than 10 years,Honours,Casual,Human Resources,3,2,2,3,3,3,2,2,2,3,1,3,1,2,1,1,2.6666666666666665,2.1666666666666665,1.25
+R329,Male,50 and above,2–5 years,Bachelor's degree,Contract,Legal & Compliance,4,4,3,4,4,3,3,3,2,2,3,1,1,2,1,1,3.6666666666666665,2.3333333333333335,1.25
+R330,Male,50 and above,More than 10 years,Honours,Permanent,Service Delivery,2,2,2,2,2,2,3,3,3,4,3,3,2,2,2,2,2.0,3.1666666666666665,2.0
+R331,Male,40–49,Less than 2 years,Bachelor's degree,Permanent,Administration,2,1,1,1,2,1,5,5,5,5,5,5,4,2,3,3,1.3333333333333333,5.0,3.0
+R332,Female,30–39,6–10 years,Bachelor's degree,Permanent,Administration,3,3,3,2,3,3,3,4,4,3,4,4,1,2,1,1,2.8333333333333335,3.6666666666666665,1.25
+R333,Male,Under 30,2–5 years,Doctoral degree,Permanent,Human Resources,2,2,2,2,2,2,5,4,4,3,4,5,2,2,2,2,2.0,4.166666666666667,2.0
+R335,Male,50 and above,Less than 2 years,Honours,Permanent,IT & Systems,2,2,2,2,2,2,3,3,3,3,3,3,2,2,2,2,2.0,3.0,2.0
+R336,Male,30–39,6–10 years,Bachelor's degree,Contract,Human Resources,4,4,4,4,4,4,3,4,3,3,2,2,1,1,1,1,4.0,2.8333333333333335,1.0
+R337,Female,40–49,2–5 years,Master's degree,Permanent,Administration,4,3,4,5,5,4,3,4,2,2,3,3,1,1,1,1,4.166666666666667,2.8333333333333335,1.0
+R339,Female,40–49,Less than 2 years,Doctoral degree,Permanent,Service Delivery,3,3,3,3,3,3,4,4,4,4,3,3,1,2,2,3,3.0,3.6666666666666665,2.0
+R340,Male,30–39,2–5 years,Honours,Permanent,Human Resources,5,4,4,4,4,4,2,2,2,1,2,2,1,1,1,1,4.166666666666667,1.8333333333333333,1.0
+R341,Female,30–39,6–10 years,Bachelor's degree,Contract,Service Delivery,3,3,3,3,3,3,3,3,3,3,3,4,2,1,1,1,3.0,3.1666666666666665,1.25
+R342,Female,30–39,More than 10 years,Diploma,Contract,Legal & Compliance,2,1,1,2,2,2,4,3,3,3,4,5,2,2,2,2,1.6666666666666667,3.6666666666666665,2.0
+R343,Male,30–39,2–5 years,Bachelor's degree,Contract,Administration,3,2,2,3,2,2,3,4,3,3,4,4,2,2,3,2,2.3333333333333335,3.5,2.25
+R344,Male,30–39,6–10 years,Honours,Permanent,IT & Systems,3,3,3,3,2,3,3,3,3,2,3,3,1,1,1,1,2.8333333333333335,2.8333333333333335,1.0
+R345,Male,Under 30,More than 10 years,Bachelor's degree,Permanent,Finance,3,3,3,3,3,3,4,4,3,3,4,4,1,1,1,1,3.0,3.6666666666666665,1.0
+R346,Female,40–49,6–10 years,Master's degree,Permanent,Service Delivery,4,4,5,5,4,5,2,1,2,2,2,2,1,1,1,1,4.5,1.8333333333333333,1.0
+R347,Female,30–39,2–5 years,Honours,Permanent,IT & Systems,3,3,3,4,3,3,4,4,3,3,4,4,2,2,2,2,3.1666666666666665,3.6666666666666665,2.0
+R348,Male,40–49,Less than 2 years,Bachelor's degree,Permanent,IT & Systems,4,4,4,5,5,3,2,2,2,2,2,2,1,1,1,1,4.166666666666667,2.0,1.0
+R349,Male,Under 30,More than 10 years,Honours,Contract,Service Delivery,4,3,3,4,4,3,2,2,2,2,2,1,1,1,1,1,3.5,1.8333333333333333,1.0
+R350,Female,30–39,Less than 2 years,Honours,Permanent,Human Resources,4,4,4,4,4,3,2,3,2,3,3,3,2,1,1,2,3.8333333333333335,2.6666666666666665,1.5
